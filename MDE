@@ -1,3 +1,64 @@
 Mhz
 
 140.1740    
+
+__ LPA __
+
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+   137912500; NOOA                     ; Narrow FM           ;      10000; Untagged
+   138137500; direcciones              ; Narrow FM           ;      10000; Untagged
+   138403500; ?                        ; Narrow FM           ;      10000; DSD
+   138653000; reportes                 ; Narrow FM           ;      10000; vigilancia
+   138987500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   139212500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   140174000; Finca                    ; Narrow FM           ;      10000; OTROS
+   144285000; Encuentro                ; Narrow FM           ;      10000; RadioAficionados
+   144390000; APRS                     ; Narrow FM           ;      10000; RadioAficionados
+   144547000; F                        ; Narrow FM           ;      10000; OTROS
+   145150000; Yarumal                  ; Narrow FM           ;      10000; RadioAficionados
+   145670000; LRM                      ; Narrow FM           ;      10000; RadioAficionados
+   145762500; F                        ; Narrow FM           ;      10000; OTROS
+   146400000; CRA                      ; Narrow FM           ;      10000; RadioAficionados
+   146520000; Encuentro                ; Narrow FM           ;      10000; RadioAficionados
+   146610000; Union                    ; Narrow FM           ;      10000; RadioAficionados
+   146730000; LRM-Loc                  ; Narrow FM           ;      10000; RadioAficionados
+   146820000; RUIZ                     ; Narrow FM           ;      10000; RadioAficionados
+   146940000; Barcino                  ; Narrow FM           ;      10000; RadioAficionados
+   147210000; Maco                     ; Narrow FM           ;      10000; RadioAficionados
+   147390000; LRM-NAL                  ; Narrow FM           ;      10000; RadioAficionados
+   148337300; ??                       ; Narrow FM           ;      10000; DSD
+   148800000; Ponal                    ; Narrow FM           ;      10000; Ponal
+   148813500; ?                        ; Narrow FM           ;      10000; DSD
+   149427700; Accion                   ; Narrow FM           ;      10000; accion
+   150163500; Taxi?                    ; Narrow FM           ;      10000; Transporte
+   150538000; ??                       ; Narrow FM           ;      10000; DSD
+   151238300; Vigilancia               ; Narrow FM           ;       5000; vigilancia
+   151462500; vigilancia               ; Narrow FM           ;      10200; vigilancia
+   151700000; vigilancia               ; Narrow FM           ;      10000; vigilancia
+   152239000; omega                    ; Narrow FM           ;      10200; DSD
+   152865500; vigilancia               ; Narrow FM           ;      10000; vigilancia
+   153188400; Vigilancia               ; Narrow FM           ;      10000; vigilancia
+   153214500; DSD                      ; Narrow FM           ;      10200; DSD
+   153340500; DSD (Nelson)             ; Narrow FM           ;      10000; DSD
+   153364500; DSD (Natalia)            ; Narrow FM           ;      10000; DSD
+   153815000; Vigilancia               ; Narrow FM           ;      10000; vigilancia
+   153952500; DSD                      ; Narrow FM           ;      10000; DSD
+   154100000; Ponal                    ; Narrow FM           ;      10000; Ponal
+   154152000; Vigilancia               ; Narrow FM           ;      10000; vigilancia
+   155187500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   155302000; vigilancia               ; Narrow FM           ;      10000; vigilancia
+   155614000; movil                    ; Narrow FM           ;      10000; Transporte
+   155651500; Satelite                 ; Narrow FM           ;      10000; vigilancia
+   155828000; DSD                      ; Narrow FM           ;      10000; DSD
+   155964500; Vigilancia               ; Narrow FM           ;      10200; vigilancia
+   157752000; DSD                      ; Narrow FM           ;      10000; DSD
+   157862500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   162237500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   164012500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   164077000; despacho                 ; Narrow FM           ;      10000; Transporte
+   169887500; Ponal                    ; Narrow FM           ;      10000; Ponal
+   422178500; DSD                      ; Narrow FM           ;      10000; DSD
+   422927000; DSD                      ; Narrow FM           ;      10000; DSD
+   423238000; DSD                      ; Narrow FM           ;      10000; DSD
+   441565700; dsd                      ; Narrow FM           ;      10000; DSD
